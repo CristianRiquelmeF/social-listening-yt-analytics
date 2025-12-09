@@ -28,7 +28,7 @@ Diseñado para equipos editoriales que requieren feedback inmediato post-emisió
 
 *Identificación de comentarios con mayor validación social (Likes) y su nivel de confianza algorítmica.*
 
-<img width="1548" height="480" alt="imagen" src="https://github.com/user-attachments/assets/86bbd49c-6ea7-445f-9a63-6f11ed2c40ed" />
+<img width="1348" height="780" alt="imagen" src="https://github.com/user-attachments/assets/86bbd49c-6ea7-445f-9a63-6f11ed2c40ed" />
 
 **Nota Metodológica:** La columna *Confianza* indica la seguridad del modelo (0-100%) al clasificar el texto, permitiendo filtrar opiniones ambiguas para el análisis editorial.
 
