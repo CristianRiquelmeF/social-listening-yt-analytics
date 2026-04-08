@@ -14,7 +14,7 @@ Permite extraer, procesar y visualizar el sentimiento de la audiencia en tiempo 
 
 ## Stack Tecnológico
 * **Lenguaje:** Python 3.10+
-* **IA/ML:** `pysentimiento` (RoBERTa-BNE), `transformers`
+* **DL:** `pysentimiento` (RoBERTa-BNE), `transformers`
 * **Data:** `pandas`, `youtube-comment-downloader`
 * **Viz:** `matplotlib`, `seaborn`
 
