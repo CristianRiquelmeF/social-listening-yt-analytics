@@ -1,7 +1,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JbJw7SIOtbig82CL88xaSkUqz_FhH1tU?authuser=3)
 
-# Termómetro Digital de Audiencias: Análisis de Sentimiento con NPL avanzado
+# Termómetro Digital de Audiencias: Análisis de Sentimiento con NLP avanzado
 
 Herramienta de análisis de opinión pública diseñada para medios de comunicación, centrado en scraping desde Youtube.
 Permite extraer, procesar y visualizar el sentimiento de la audiencia en tiempo real utilizando Inteligencia Artificial.
